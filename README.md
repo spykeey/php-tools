@@ -3,6 +3,6 @@
 
 NOTE: List is updated on a regular basis.
 
-[X] array_pluck()
-[X] reindexArray()
-[ ] <to be continued>
+-[X] array_pluck()
+-[X] reindexArray()
+-[ ] <to be continued>
