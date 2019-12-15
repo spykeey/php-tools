@@ -5,4 +5,4 @@ NOTE: List is updated on a regular basis.
 
 - [x] array_pluck()
 - [x] reindexArray()
-- [ ] <to be continued>
+- [ ] [to be continued]
